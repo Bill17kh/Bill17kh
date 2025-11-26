@@ -108,8 +108,8 @@ During this internship I worked on:
 
 ## 🤝 Let's Connect
 
-- 🔗 **LinkedIn:** *(add your LinkedIn URL here)*  
-- 📧 **Email:** *(your professional email here)*  
+- 🔗 **LinkedIn: www.linkedin.com/in/bilal-el-khantouri
+- 📧 **Email: elkhantouri.bl@gmail.com
 - 📍 Based in **Morocco**, open to **remote** or **relocation**
 
 > 💡 *I’m always open to collaborating on interesting cloud / DevOps / backend projects or talking about infrastructure, automation, and real-time systems.*
